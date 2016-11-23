@@ -21,7 +21,7 @@ config[:casper] = {
   },
   navigation: {
     "Home" => "/",
-    "Resume" => "/file/resume.pdf",
+    "Résumé" => "/resume",
     "GitHub" => "https://github.com/kirkelifson",
     "Twitter" => "https://twitter.com/elifsonk",
     "Pictures" => "/events/",
