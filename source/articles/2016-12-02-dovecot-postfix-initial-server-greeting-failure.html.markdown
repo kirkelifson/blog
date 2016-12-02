@@ -2,6 +2,7 @@
 title: Dovecot/Postfix - Initial Server Greeting Failure
 date: 2016-12-02 00:08 UTC
 tags: dovecot postfix server
+layout: page
 ---
 
 I ran into a problem suddenly after upgrading my mail server. Thunderbird would timeout while logging in without any error. Sending email appeared to work, but I was no longer receiving mail or able to login. After debugging SSL and authentication I dug through the logs.
