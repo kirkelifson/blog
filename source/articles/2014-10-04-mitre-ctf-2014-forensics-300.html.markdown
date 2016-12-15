@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "MITRE CTF 2014 - Forensics 300"
 date: 2014-10-04 21:05:10
 comments: true

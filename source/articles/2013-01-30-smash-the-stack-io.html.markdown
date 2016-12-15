@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Smash the Stack: IO"
 date: 2013-01-30 14:20
 comments: true

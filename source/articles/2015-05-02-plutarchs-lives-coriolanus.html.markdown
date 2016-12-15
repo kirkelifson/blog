@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Plutarch's Lives - Coriolanus"
 date: 2015-05-02 21:37:11
 comments: true

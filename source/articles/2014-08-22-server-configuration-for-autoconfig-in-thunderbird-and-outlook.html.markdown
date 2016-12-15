@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Server configuration for autoconfig in Thunderbird and Outlook"
 date: 2014-08-22 21:49:25
 comments: true

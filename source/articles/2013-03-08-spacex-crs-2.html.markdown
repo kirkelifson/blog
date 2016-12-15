@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "SpaceX CRS-2"
 date: 2013-03-08 23:50
 comments: true

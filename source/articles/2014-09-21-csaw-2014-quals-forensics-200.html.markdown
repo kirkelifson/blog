@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "CSAW 2014 Quals - Forensics 200"
 date: 2014-09-21 04:05:32
 comments: true

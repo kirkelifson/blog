@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Martin Eberhard - Lessons from the Electric Roadster, Lecture at Stanford (2007)"
 date: 2013-08-23 22:47
 comments: true

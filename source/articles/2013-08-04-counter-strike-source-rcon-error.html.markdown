@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Counter-Strike: Source RCON error"
 date: 2013-08-04 20:22
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Essentials"
 date: 2013-08-23 02:21
 comments: true

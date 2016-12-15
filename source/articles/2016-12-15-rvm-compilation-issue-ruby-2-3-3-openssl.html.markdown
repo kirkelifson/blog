@@ -2,7 +2,6 @@
 title: rvm compilation issue - ruby 2.3.3, openssl
 date: 2016-12-15 02:25 UTC
 tags:
-layout: page
 ---
 
 While trying to upgrade to the latest available ruby version I ran into a problem. It seemed to be a problem with rvm and after some googling I came across a decent solution.

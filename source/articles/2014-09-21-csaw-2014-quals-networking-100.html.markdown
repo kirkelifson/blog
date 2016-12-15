@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "CSAW 2014 Quals - Networking 100"
 date: 2014-09-21 04:06:12
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Epictetus' Enchiridion (mathematical!)"
 date: 2014-03-19 23:28:03
 comments: true

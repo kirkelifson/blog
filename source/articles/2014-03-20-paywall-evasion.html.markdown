@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Paywall evasion"
 date: 2014-03-20 22:43:56
 comments: true

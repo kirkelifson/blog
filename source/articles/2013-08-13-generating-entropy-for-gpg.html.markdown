@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Generating entropy for GPG"
 date: 2013-08-13 00:24 UTC
 comments: true

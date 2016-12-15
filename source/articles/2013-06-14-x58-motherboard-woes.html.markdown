@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "x58 motherboard woes"
 date: 2013-06-14 23:29
 comments: true

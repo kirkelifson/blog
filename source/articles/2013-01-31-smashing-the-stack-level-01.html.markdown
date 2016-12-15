@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Smashing the Stack: Level 1"
 date: 2013-01-31 20:25
 comments: true

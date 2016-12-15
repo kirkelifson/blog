@@ -2,7 +2,6 @@
 title: New blog
 date: 2016-09-25 22:16 UTC
 tags: meta
-layout: page
 ---
 
 This post marks the end of my Octopress blog. My blogging habits are non-existent, but Octopress and it's configuration was an inhibitor to that. Upgrading to Octopress 3 seemed like a waste of time. Introduce Middleman!

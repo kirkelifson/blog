@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Installing Postfix &amp; Dovecot on Debian Wheezy"
 date: 2013-07-27 15:28
 comments: true

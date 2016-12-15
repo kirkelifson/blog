@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Debian sudo secure\_path"
 date: 2014-04-05 22:15:54
 comments: true

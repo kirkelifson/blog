@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "The NSA, 1999"
 date: 2013-07-18 10:59
 comments: true
