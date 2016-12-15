@@ -140,7 +140,7 @@ configure :build do
   activate :minify_javascript
 
   # Enable cache buster
-  # activate :asset_hash
+  activate :asset_hash
 
   # Use relative URLs
   # activate :relative_assets
@@ -155,3 +155,5 @@ end
 set :ssl_certificate, '/etc/ssl/parodybit.net.crt'
 set :ssl_private_key, '/etc/ssl/parodybit.net.key'
 set :https, true
+
+Tilt::SYMBOL_ARRAY_SORTABLE = false
