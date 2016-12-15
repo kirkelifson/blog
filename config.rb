@@ -9,15 +9,14 @@ config[:casper] = {
     description: 'Kirk Elifson',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: 'images/avatar.png' # Optional
+    logo: 'images/avatar.jpg'
   },
   author: {
     name: 'Kirk Elifson',
-    bio: nil, # Optional
-    location: "Florida", # Optional
-    website: "http://kirkelifson.com", # Optional
-    gravatar_email: "kirk@parodybit.net", # Optional
-    twitter: "elifsonk" # Optional
+    location: "Florida",
+    website: "http://kirkelifson.com",
+    gravatar_email: "kirk@parodybit.net",
+    twitter: "elifsonk"
   },
   navigation: {
     "Home" => "/",
@@ -87,6 +86,7 @@ end
 ###
 
 activate :blog do |blog|
+  blog.layout = "page"
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
