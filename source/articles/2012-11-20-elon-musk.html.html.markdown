@@ -20,7 +20,7 @@ Well, that's enough for an introduction, I probably got carried away. I'll let h
 
 *The Daily Show with Jon Stewart - April 10th, 2012*
 
-<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="http://media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:4c650a6a-899a-4f97-a45f-1a9d47a914be" width="512" height="288" frameborder="0"></iframe><p style="text-align:left;background-color:#FFFFFF;padding:4px;margin-top:4px;margin-bottom:0px;font-family:Arial, Helvetica, sans-serif;font-size:12px;"><b><a href="http://www.cc.com/shows/the-daily-show-with-jon-stewart">The Daily Show with Jon Stewart</a></b><br/>Get More: <a href="http://thedailyshow.cc.com/full-episodes/">Daily Show Full Episodes</a>,<a href="http://www.facebook.com/thedailyshow">The Daily Show on Facebook</a>,<a href="http://thedailyshow.cc.com/videos">Daily Show Video Archive</a></p></div></div>
+<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="http://media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:4c650a6a-899a-4f97-a45f-1a9d47a914be" width="512" height="288" frameborder="0" allowfullscreen="true"></iframe></div></div>
 
 
 *NPC Luncheon*
