@@ -20,7 +20,9 @@ Well, that's enough for an introduction, I probably got carried away. I'll let h
 
 *The Daily Show with Jon Stewart - April 10th, 2012*
 
-<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="http://media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:4c650a6a-899a-4f97-a45f-1a9d47a914be" width="512" height="288" frameborder="0" allowfullscreen="true"></iframe></div></div>
+[Part 1](http://www.cc.com/video-clips/o1014u/the-daily-show-with-jon-stewart-exclusive---elon-musk-extended-interview-pt--1)
+
+[Part 2](http://www.cc.com/video-clips/isl41b/the-daily-show-with-jon-stewart-exclusive---elon-musk-extended-interview-pt--2)
 
 
 *NPC Luncheon*
