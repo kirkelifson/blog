@@ -10,15 +10,17 @@ Today I began reading this month's issue of Bruce Schneier's "Crypto-gram" newsl
 
 However, a quote that he included from then NSA Director Michael Hayden dating from 1999 truly shocked me.
 
-{% blockquote General Michael Hayden, 1999 %}
-I'm a kid from Pittsburgh with two sons and a daughter who are closet libertarians. I am not interested in doing anything that threatens the American people, and threatens the future of this agency. I can't emphasize enough to you how careful we are. We have to be so careful -- to make sure that America is never distrustful of the power and security we can provide.
-{% endblockquote %}
+>I'm a kid from Pittsburgh with two sons and a daughter who are closet libertarians. I am not interested in doing anything that threatens the American people, and threatens the future of this agency. I can't emphasize enough to you how careful we are. We have to be so careful -- to make sure that America is never distrustful of the power and security we can provide.
+
+_General Michael Hayden, 1999_
 
 Whether or not this statement is 100% factual, I had still found it incredible especially compared to the backfire from the NSA we've been hearing over the past month. Rather than circling around the dissent and arguing that the spying is justified by national security needs, a standard procedure 9/11 invocation, Hayden is firmly denying even the need for any of the spying to occur or be discussed in the first place.
 
 A tweet from Paul Graham shortly after the Snowden leaks surfaced echoes simply what a large amount of people in the security industry imagined of the NSA regardless of their public speeches:
 
-{% tweet https://twitter.com/paulg/statuses/342802612892102657 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Didn&#39;t every hacker already take it for granted that the NSA had everything?  Not that it&#39;s ok.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/342802612892102657">June 7, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Whether or not this program is actually assisting the military in catching the Bad Guys, we as citizens of the United States need to be deeply concerned about government overreach in the digital realm. I have noticed many stating that 'if we are doing nothing illegal then we have nothing to worry about.' I'm sorry, but this is unequivocally false. We have inalienable rights in this country defined by the Fourth Amendment that protects us from unreasonable search and seizure of our personal belongings. Data sent between citizens is certainly personal and should be regarded as such.
 

@@ -7,9 +7,9 @@ layout: page
 
 I ran into a problem suddenly after upgrading my mail server. Thunderbird would timeout while logging in without any error. Sending email appeared to work, but I was no longer receiving mail or able to login. After debugging SSL and authentication I dug through the logs.
 
-```
+~~~
 Nov 19 20:58:20 andromeda postfix/lmtp[6823]: B4F8B40416: to=<kirk@parodybit.net>, relay=andromeda.parodybit.net[private/dovecot-lmtp], delay=105492, delays=105492/0.02/0.01/0, dsn=4.4.2, status=deferred (lost connection with andromeda.parodybit.net[private/dovecot-lmtp] while receiving the initial server greeting)
-```
+~~~
 
 Postfix says it lost connection with Dovecot "while receiving the initial server greeting". I wasn't entirely sure what that meant and spent some time googling to see if others had a common failure point. This didn't result in any helpful results.
 
