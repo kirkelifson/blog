@@ -132,8 +132,6 @@ DEPENDENCIES
   middleman-syntax (~> 3.0.0)
   nokogiri (~> 1.6.8)
   redcarpet (~> 3.3.4)
-  tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.14.6
