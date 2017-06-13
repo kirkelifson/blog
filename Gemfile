@@ -2,16 +2,16 @@ source 'https://rubygems.org'
 
 # Middleman Gems
 gem 'middleman-livereload'
-gem 'middleman', '~> 4.0'
-gem 'middleman-blog', '~> 4.0'
-gem 'middleman-sprockets', '~> 4.0.0'
+gem 'middleman'
+gem 'middleman-blog'
+gem 'middleman-sprockets'
 
 # For feed.xml.builder
-gem 'builder', '~> 3.2.2'
+gem 'builder'
 
 # Code syntax highlighting
-gem 'middleman-syntax', '~> 3.0.0'
-gem 'redcarpet', '~> 3.3.4'
+gem 'middleman-syntax'
+gem 'redcarpet'
 
 # For "summary"-Helper
-gem 'nokogiri', '~> 1.6.8'
+gem 'nokogiri'
