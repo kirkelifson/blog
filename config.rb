@@ -156,5 +156,3 @@ end
 set :ssl_certificate, '/etc/ssl/parodybit.net.crt'
 set :ssl_private_key, '/etc/ssl/parodybit.net.key'
 set :https, true
-
-Tilt::SYMBOL_ARRAY_SORTABLE = false
